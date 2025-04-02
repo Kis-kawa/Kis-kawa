@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,aws,git,vim,vscode,figma,flutter,dart,cpp,py,docker,mysql,linux,raspberrypi,ubuntu,apple,&perline=6)](https://skillicons.dev)
+
+## Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kis-kawa&layout=compact&theme=onedark
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kis-kawa&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kis-kawa&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Kis-kawa/Kis-kawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
